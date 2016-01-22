@@ -1,4 +1,3 @@
-
 # Colliders y Triggers 
 
 ## Parecidos y diferencias
